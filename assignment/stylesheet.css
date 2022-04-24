@@ -1,0 +1,19 @@
+header {
+    background-color: seagreen;
+}
+
+.info {
+    background-color: darkgrey;
+}
+
+.car {
+    margin: 0 auto;
+    border-width: 20px;
+    border: 4px solid seagreen;
+    max-width: max-content;
+    padding: 20px;
+}
+
+body {
+    text-align: center;
+}
